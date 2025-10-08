@@ -45638,6 +45638,8 @@ a.u-link.u-text-hover-color-var:hover {
         
         
         
+        
+        
         }
 
         /** common-rules **/
@@ -45771,6 +45773,11 @@ a.u-link.u-text-hover-color-var:hover {
         margin-top: 20px;
         margin-bottom: 20px;
         line-height: 1.6;
+        }
+        .u-body
+        {
+        background-image: linear-gradient(white, #adf6f2);
+        background-attachment: fixed;
         }
         .u-input
         {
@@ -46113,7 +46120,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 113px;
+  min-height: 115px;
 }
 
 .u-header .u-image-1 {
@@ -46141,7 +46148,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-header .u-language-1 {
-  margin: -36px auto 49px 67px;
+  margin: -36px auto 51px 76px;
 }
 
 .u-header .u-icon-1 {
